@@ -1,6 +1,4 @@
 Simon Kellegher
-cv@syborg.co.uk
-github.com/Siborg18
 
 PERSONAL PROFILE
 
