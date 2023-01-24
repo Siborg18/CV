@@ -1,5 +1,6 @@
 Simon Kellegher
 cv@syborg.co.uk
+github.com/Siborg18
 
 PERSONAL PROFILE
 
@@ -15,13 +16,15 @@ KEY SKILLS
 •	Experienced in Change Management
 •	Follows Version Control best practices
 •	Python
+• C++
 
 SELF-DEVELOPMENT
 
-Since my contract expired at the Gloucestershire Constabulary, the typical 37 working hours have been spent learning Python. Trying to gain as much understanding as possible about Software Development using online learning resources, building up a portfolio, and working on personal projects.
+Since my contract expired at the Gloucestershire Constabulary, the typical 37 working hours have been spent learning Python and C++. Trying to gain as much understanding as possible about Software Development using online learning resources, building up a portfolio, and working on personal projects.
 
 •	Udemy Course – 100 days of Code: The Complete Python Pro Bootcamp for 2022
-•	Personal Projects – Designing and programming a city builder game in Unity, programming a backgammon game in pygame and programming a rugby stats bot using Python.
+• Learnccp.com - Following the tutorials
+•	Personal Projects – Programming an ESP32 to monitor cat movements, developing a rugby manager game using Eclipse/C++ with the intention to create a GUI in Unreal 5.
 
 
 EMPLOYMENT HISTORY
@@ -85,7 +88,7 @@ GCSE Maths, GCSE English
 
 PERSONAL INTERESTS
 
-Started a 5 a side football group at the County Council who play once a week, enjoy long distance running (weather permitting), have been walking many of the Gloucestershire hills at the weekend and enjoy gaming in the evenings and at the weekends.
+Started a 5 a side football group at the County Council who play once a week, enjoy long distance running (weather permitting), have been walking many of the Gloucestershire hills at the weekend and enjoy PC gaming in the evenings and at the weekends.
 
 REFERENCES 
 
