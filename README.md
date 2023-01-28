@@ -1,4 +1,4 @@
-<title> Simon Kellegher </title>
+Simon Kellegher
 
 PERSONAL PROFILE
 
@@ -6,15 +6,15 @@ Determined ICT professional looking for an opportunity to build on ICT experienc
 
 KEY SKILLS
 
-•	Works well under pressure through methodical prioritisation
-•	Good at communicating to different technical competencies
-•	Acting in a considerate manner when faced with challenging situations
-•	Takes an active role in sharing ideas and opinions as part of a team
-•	Experienced writing reports and user guides of varying degrees of complexity
-•	Experienced in Change Management
-•	Follows Version Control best practices
-•	Python
-• C++
++ Works well under pressure through methodical prioritisation
++	Good at communicating to different technical competencies
++ Acting in a considerate manner when faced with challenging situations
++	Takes an active role in sharing ideas and opinions as part of a team
++	Experienced writing reports and user guides of varying degrees of complexity
++	Experienced in Change Management
++	Follows Version Control best practices
++	Python
++ C++
 
 SELF-DEVELOPMENT
 
