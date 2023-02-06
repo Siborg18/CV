@@ -27,7 +27,7 @@ Since my contract expired at the Gloucestershire Constabulary, the typical 37 wo
 
 ## EMPLOYMENT HISTORY
 
-**September 2021 – Present 		Gloucestershire Constabulary 		Applications Analyst**
+**September 2021 – April 2022		Gloucestershire Constabulary 		Applications Analyst**
 
 Outline
 Reporting to the Application Services Team Leader at the Gloucestershire Constabulary, providing 2nd line support to police officers and support staff across the county. By maintaining a portfolio of 3rd  party applications. Involved in an ITSM improvement project to make the self-service portal and the analyst portal as user friendly as possible.
