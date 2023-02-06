@@ -41,7 +41,8 @@ Key responsibilities
 
 **May 2021 – September 2021		Gloucestershire Constabulary	          ICT Support Technician**
 
-Outline
+**Outline
+
 Reporting to the Service Desk Team Leader at the Gloucestershire Constabulary, providing 1st and 2nd line support to police officers and support staff across the county.
 
 Key responsibilities
@@ -56,7 +57,8 @@ Key responsibilities
 
 **May 2019 – May 2021 		Gloucestershire County Council 			ICT Support Officer**
 
-Outline
+**Outline
+
 Reporting to the ICT Operations Manager at Gloucestershire County Council, providing 1st and 2nd line support to 4500 colleagues in the local authority. Involved in Asset Management within the organisation and have worked on a number of large projects including the recent roll out of Windows10, an organisation wide kit refresh and the introduction of GovWiFi.
 
 Key responsibilities
