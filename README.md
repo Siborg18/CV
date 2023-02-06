@@ -29,7 +29,7 @@ Since my contract expired at the Gloucestershire Constabulary, the typical 37 wo
 
 **September 2021 – April 2022		Gloucestershire Constabulary 		Applications Analyst**
 
-Outline
+
 Reporting to the Application Services Team Leader at the Gloucestershire Constabulary, providing 2nd line support to police officers and support staff across the county. By maintaining a portfolio of 3rd  party applications. Involved in an ITSM improvement project to make the self-service portal and the analyst portal as user friendly as possible.
 
 Key responsibilities
@@ -40,8 +40,6 @@ Key responsibilities
 +	Acting as an escalation point for the business to 3rd party vendors
 
 **May 2021 – September 2021		Gloucestershire Constabulary	          ICT Support Technician**
-
-**Outline
 
 Reporting to the Service Desk Team Leader at the Gloucestershire Constabulary, providing 1st and 2nd line support to police officers and support staff across the county.
 
