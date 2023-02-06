@@ -55,8 +55,6 @@ Key responsibilities
 
 **May 2019 – May 2021 		Gloucestershire County Council 			ICT Support Officer**
 
-**Outline
-
 Reporting to the ICT Operations Manager at Gloucestershire County Council, providing 1st and 2nd line support to 4500 colleagues in the local authority. Involved in Asset Management within the organisation and have worked on a number of large projects including the recent roll out of Windows10, an organisation wide kit refresh and the introduction of GovWiFi.
 
 Key responsibilities
