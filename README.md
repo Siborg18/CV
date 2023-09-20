@@ -22,7 +22,7 @@ Since my contract expired at the Gloucestershire Constabulary, the typical 37 wo
 
 +	Udemy Course – 100 days of Code: The Complete Python Pro Bootcamp for 2022
 + Learnccp.com - Following the tutorials
-+	Personal Projects – Programming an ESP32 to monitor cat movements, developing a rugby manager game using Eclipse/C++ with the intention to create a GUI in Unreal 5.
++	Personal Projects – Developing a rugby manager game in C++, a text to braille translator.
 
 
 ## EMPLOYMENT HISTORY
