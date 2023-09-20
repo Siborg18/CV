@@ -84,7 +84,7 @@ GCSE Maths, GCSE English
 
 ## PERSONAL INTERESTS
 
-Started a 5 a side football group at the County Council who play once a week, enjoy long distance running (weather permitting), have been walking many of the Gloucestershire hills at the weekend and enjoy PC gaming in the evenings and at the weekends.
+Started a 5 a side football group at the County Council who play once a week, enjoy long distance cycling, recently cycled from Gloucester to Groningen, enjoy PC gaming in the evenings and at the weekends.
 
 ## REFERENCES 
 
