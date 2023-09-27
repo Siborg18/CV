@@ -13,12 +13,11 @@ I'm an ICT professional with experience in 1st and 2nd line support, looking to 
 +	Experienced writing reports and user guides of varying degrees of complexity
 +	Experienced in Change Management
 +	Follows Version Control best practices
-+	Python
-+ C++
++	Python, C++
 
 ## SELF-DEVELOPMENT
 
-Since my contract expired at the Gloucestershire Constabulary, the typical 37 working hours have been spent learning Python and C++. Trying to gain as much understanding as possible about Software Development using online learning resources, building up a portfolio, and working on personal projects.
+Since my contract expired at the Gloucestershire Constabulary, the typical 40 working hours have been spent learning Python and C++. Trying to gain as much understanding as possible about Software Development using online learning resources, building up a portfolio, and working on personal projects.
 
 +	Udemy Course – 100 days of Code: The Complete Python Pro Bootcamp for 2022
 + Learnccp.com - Following the tutorials
