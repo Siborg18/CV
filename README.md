@@ -2,7 +2,7 @@
 
 ## PERSONAL PROFILE
 
-Determined ICT professional looking for an opportunity to build on ICT experience. Experienced in 1st and 2nd line support. Looking to move towards Software / Application Development. Focused on improving user experience, through assessing requirements and developing solutions. 
+I'm an ICT professional with experience in 1st and 2nd line support, looking to transition into Software/Application Development. I'm dedicated to improving user experiences through effective requirement assessment and innovative solutions.
 
 ## KEY SKILLS
 
