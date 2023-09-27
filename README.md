@@ -83,7 +83,9 @@ GCSE Maths, GCSE English
 
 ## PERSONAL INTERESTS
 
-Started a 5 a side football group at the County Council who play once a week, enjoy long distance cycling, recently cycled from Gloucester to Groningen, enjoy PC gaming in the evenings and at the weekends.
+Enthusiastic about long-distance cycling, I recently completed an exhilarating journey from Gloucester to Groningen.
+Organise and play in a Touch Rugby Game
+Passionate about gaming
 
 ## REFERENCES 
 
