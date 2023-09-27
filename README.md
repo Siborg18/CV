@@ -83,9 +83,9 @@ GCSE Maths, GCSE English
 
 ## PERSONAL INTERESTS
 
-Enthusiastic about long-distance cycling, I recently completed an exhilarating journey from Gloucester to Groningen.
+Enthusiastic about long-distance cycling, I recently completed an exhilarating journey from Gloucester to Groningen
 Organise and play in a Touch Rugby Game
-Passionate about gaming
+Passionate about PC gaming and board games
 
 ## REFERENCES 
 
